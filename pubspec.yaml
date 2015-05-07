@@ -1,0 +1,9 @@
+name: uix_forms
+description: Basic form components for uix library.
+version: 0.1.0
+author: Boris Kaul <localvoid@gmail.com>
+homepage: https://github.com/localvoid/uix_forms
+environment:
+  sdk: '>=1.9.1'
+dependencies:
+  uix: '^0.6.0'
