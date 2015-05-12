@@ -6,4 +6,4 @@ homepage: https://github.com/localvoid/uix_forms
 environment:
   sdk: '>=1.9.1'
 dependencies:
-  uix: '^0.6.0'
+  uix: '>=0.6.0 <0.8.0'
